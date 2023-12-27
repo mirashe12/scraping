@@ -42,5 +42,3 @@ So, the use of data in the context of uncertainty and decision-making in the fa
 Due to its unique aim of capturing the essence of very large datasets, to gather insights, Data Mining is also referred to as “Knowledge Discovery”. That is why, Carly Fiorina, former CEO of Hewlett-Packard once said, “The goal is to turn data into information and information into Insight”. This statement completely explains the aim of Data Mining!
             So, the difference between AI Machine Learning Statistics and Data Mining lies in their aims. But the approaches taken in all of these fields, help in one way or the other in fulfilling the aims of the other fields. This is the beauty of these fields!
 We provide intelligence, accelerate innovation and implement technology with extraordinary breadth and depth global insights into the big data,data-driven dashboards, applications development, and information management for organizations through combining unique, specialist services and high-lvel human expertise.
-Contact us: hello@blackcoffer.com
-© All Right Reserved, Blackcoffer(OPC) Pvt. Ltd

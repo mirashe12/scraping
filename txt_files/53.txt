@@ -35,5 +35,3 @@ Python in Data science has empowered data scientists to accomplish more in less 
 Python is highly adaptable and can work in any environment effectively. Additionally, with negligible changes, it can run on any operating system and can be integrated with other programming languages. These qualities have settled on Python as the top choice for developers & data scientists.
 So next time you do analysis or work on any Data Science project, feel proud cause you are working with the most loved language of the world.
 We provide intelligence, accelerate innovation and implement technology with extraordinary breadth and depth global insights into the big data,data-driven dashboards, applications development, and information management for organizations through combining unique, specialist services and high-lvel human expertise.
-Contact us: hello@blackcoffer.com
-© All Right Reserved, Blackcoffer(OPC) Pvt. Ltd
