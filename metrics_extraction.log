@@ -1,0 +1,30 @@
+2024-01-01 09:01:32,252 - INFO: Analyzing file: C:/Users/rohit/scraping/txt_files\blackassign0001.txt
+2024-01-01 09:03:56,412 - INFO: Checking files in folder: C:/Users/Admin/scraping/txt_files
+2024-01-01 09:03:56,413 - ERROR: The specified folder does not exist: C:/Users/Admin/scraping/txt_files
+2024-01-01 09:04:50,516 - INFO: Checking files in folder: C:/Users/rohit/scraping/txt_files
+2024-01-01 09:04:50,521 - INFO: Analyzing file: C:/Users/rohit/scraping/txt_files\blackassign0001.txt
+2024-01-01 09:08:07,051 - INFO: Checking files in folder: C:/Users/rohit/scraping/txt_files
+2024-01-01 09:08:07,057 - INFO: Analyzing file: C:/Users/rohit/scraping/txt_files\blackassign0001.txt
+2024-01-01 09:08:07,059 - INFO: Avg Sentence Length: 26 sentences
+2024-01-01 09:11:58,302 - INFO: Percentage of Complex Words: 58 complex words out of 441 total words
+2024-01-01 09:11:58,304 - INFO: FOG Index: 12.045386359672074
+2024-01-01 09:11:58,308 - INFO: Avg Words per Sentence: 16.96153846153846
+2024-01-01 09:15:39,318 - INFO: Complex Word Count: 58
+2024-01-01 09:15:39,322 - INFO: Word Count: 441
+2024-01-01 09:19:27,374 - INFO: Personal Pronouns Count: 5
+2024-01-01 09:19:27,378 - INFO: Avg Word Length: 4.430839002267573
+2024-01-01 09:19:27,381 - INFO: Analyzing file: C:/Users/rohit/scraping/txt_files\blackassign0002.txt
+2024-01-01 09:19:27,384 - INFO: Avg Sentence Length: 78 sentences
+2024-01-01 09:25:06,874 - INFO: Checking files in folder: C:/Users/rohit/scraping/txt_files
+2024-01-01 09:25:06,878 - INFO: Analyzing file: C:/Users/rohit/scraping/txt_files\blackassign0001.txt
+2024-01-01 09:25:06,880 - INFO: Avg Sentence Length: 26 sentences
+2024-01-01 09:28:05,637 - INFO: Checking files in folder: C:/Users/rohit/scraping/txt_files_modified
+2024-01-01 09:28:05,642 - INFO: Analyzing file: C:/Users/rohit/scraping/txt_files_modified\blackassign0001.txt
+2024-01-01 09:28:05,644 - INFO: Avg Sentence Length: 26 sentences
+2024-01-01 09:30:20,741 - INFO: Percentage of Complex Words: 58 complex words out of 272 total words
+2024-01-01 09:30:20,741 - INFO: FOG Index: 12.714027149321268
+2024-01-01 09:30:20,741 - INFO: Avg Words per Sentence: 10.461538461538462
+2024-01-01 09:32:45,528 - INFO: Complex Word Count: 58
+2024-01-01 09:32:45,531 - INFO: Word Count: 272
+2024-01-01 09:34:28,446 - INFO: Checking files in folder: C:/Users/rohit/scraping/txt_files_modified
+2024-01-01 09:36:06,206 - INFO: Checking files in folder: C:/Users/rohit/scraping/txt_files_modified
